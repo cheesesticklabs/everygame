@@ -1,0 +1,5 @@
+EmulatorJS 4.2.3, https://github.com/EmulatorJS/EmulatorJS/tree/v4.2.3
+Genesis Plus GX core distributed by the EmulatorJS CDN. Source: https://github.com/ekeeke/Genesis-Plus-GX
+Local copies replace runtime CDN loading; ROMs remain on the teacher-provided offsite storage.
+
+SNES support: Snes9x core from EmulatorJS 4.2.3 CDN. Source: https://github.com/snes9xgit/snes9x
